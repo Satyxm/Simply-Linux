@@ -1,5 +1,5 @@
 <p align="center">
-    <img  width="500" height="300" src="SIMPLY-LINUX.png" alt="Simply-Linux logo">
+    <img  width="500" height="300" src="images/SIMPLY-LINUX.png" alt="Simply-Linux logo">
 </p>
 
 
