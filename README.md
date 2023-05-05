@@ -15,3 +15,4 @@ Simply Linux is a resources repo for the Linux beginners who want to learn and u
 ## Resources:
 - [Linux Introduction (All you need to know to get started with the Terminologies)](https://satyams.hashnode.dev/linux-prelude-and-some-basic-terminologies)
 - [Basic Commands to get started with](https://satyams.hashnode.dev/10-most-basic-linux-commands-installation-of-a-linux-distro-on-virtualbox-guide-resource)
+- [All About the Command Line](https://satyams.hashnode.dev/unlock-the-power-of-linux-with-command-line-mastery)
